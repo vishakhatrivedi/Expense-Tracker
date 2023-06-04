@@ -15,4 +15,5 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.
 
 
+<img width="960" alt="Screenshot 2023-06-04 214539" src="https://github.com/vishakhatrivedi/Expense-Tracker/assets/91044422/453e2a39-4ad4-4d12-b97e-96b7783179ee">
 
